@@ -14,6 +14,6 @@ The [paper](https://doi.org/10.1093/jrsssb/qkad067) proposes a new method **clus
 
 Goeman, J.J., Górecki, P., Monajemi, R., Chen, X., Nichols, T.E. and Weeda, W. (2023). Cluster extent inference revisited: quantification and localisation of brain activity. *Journal of the Royal Statistical Society Series B: Statistical Methodology*, 85(4):1128–1153. [[Paper](https://doi.org/10.1093/jrsssb/qkad067)]
 
-## Any questions?
+## Any queries?
 
 Please email xuchen312@gmail.com.
